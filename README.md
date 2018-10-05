@@ -19,6 +19,7 @@ This simple Web application prototype shows how React components  can be used to
 - react-reveal
 - react-slick
 - react-transition-group
+- json-server
 
 ## Requirements
 - Node.js
