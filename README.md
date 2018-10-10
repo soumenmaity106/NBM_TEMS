@@ -1,6 +1,6 @@
-## Simple Web application built with React 
+##  Web application built with React 
 
-This simple Web application prototype shows how React components  can be used to build a friendly user experience with instant visual updates and scaleable code in Web application
+This  Web application prototype shows how React components  can be used to build a friendly user experience with instant visual updates and scaleable code in Web application
 
 ## Features
 - Responsive
