@@ -4,14 +4,14 @@ This simple Web application prototype shows how React components  can be used to
 
 ## Features
 - Responsive
-- Singel page application
+- Single page application
 - Slider
 - Dynamic Subscribe US
 - Subscribe form Validate
 - Block
 - Online Voting System 
-- NavBar
-- Live Serach
+- Nav Bar
+- Live Search
 - Team Details
 ## Technology
 - Node
